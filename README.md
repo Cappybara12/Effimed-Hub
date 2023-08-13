@@ -26,7 +26,7 @@ The **EffimedHUB** is a revolutionary healthcare management solution that combin
 )
 
 - **Disease Severity Assessment:** The machine learning model accurately diagnoses diseases and assesses their severity, aiding medical professionals in timely intervention and personalized treatment.
-![Disease Severity Assessment]()
+![Disease Severity Assessment](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/d5fdf65c-b979-479c-a6ed-3daf1479e7d8)
 
 - **User-Friendly Interface:** An intuitive interface ensures ease of use for healthcare administrators and staff, promoting efficient navigation.
 ![User-Friendly Interface](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/a6f24097-affa-469d-ad21-c8c579ae70a4
