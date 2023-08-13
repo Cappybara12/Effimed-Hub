@@ -44,6 +44,7 @@ Project Name caters to hospitals of diverse sizes and specializations. Each hosp
 Our machine learning model analyzes patient data to determine disease severity accurately. This model aids healthcare professionals in making informed decisions, prioritizing patient care, and improving treatment outcomes.
 ![ML model SS1](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/98b3f5a1-88d7-45d7-86b5-3dc0adcca73f)
 ![ML model SS2](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/70b0c37c-36b8-491c-93b5-aa1490e28e93)
+![ML model SS3 WORKING ](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/d5fdf65c-b979-479c-a6ed-3daf1479e7d8)
 
 ## How It Works
 
